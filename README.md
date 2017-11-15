@@ -8,7 +8,7 @@ Per Scholas has a large alumni network. They want to effectively engage and trac
 to record and report out on program outcomes to their funders and partners. 
 The challenge is to create a tool to connect their staff and alumni. In particular: job changes, promotions, new skills.
 
-With @Amirosimani, we developed a facebook chatbot to solve the problem
+With [@Amirosimani](https://github.com/Amirosimani), we developed a facebook chatbot to solve the problem
 
 
 ![Alt Text](https://github.com/gary159/NBC_Hackathon/blob/master/Demo_video.gif)
